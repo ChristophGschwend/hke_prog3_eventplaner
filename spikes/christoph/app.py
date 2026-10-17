@@ -1,1 +1,1 @@
-# Grundlagen Christoph
+print("Hello World")
